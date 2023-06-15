@@ -1,0 +1,25 @@
+{
+    "status": "SUBSCRIBE TO SCIENCE GEAR",
+    "prefix": "gr!",
+    "genChannel": "0000000000000000000",
+    "pgenChannel": "0000000000000000000",  
+    "genCooldown": "120000",
+    "genCooldownsec": "600",
+    "pgenrole": "role_id",
+    "freegenrole": "role_id",
+    "stocker": "role_id",
+    "secretKey":"your_secret_key",
+    "username":"your_username",
+    "password":"your_password",
+    "gifurl": "https://cdn.discordapp.com/attachments/1112975745212489808/1116032447197491361/standard.gif",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}

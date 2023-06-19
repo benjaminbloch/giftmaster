@@ -4,7 +4,12 @@
 
 Welcome to GiftMaster, the ultimate giveaway bot for Discord! This bot is designed to enhance your server's engagement by enabling seamless and exciting giveaways. Whether you're hosting a gaming community event or simply feeling generous, GiftMaster has got you covered.
 
-##Create
+## Create
+
+<a href="https://replit.com/github/import/https://github.com/ScienceGear/giftmaster">
+  <img src="https://replit.com/badge/github/ScienceGear/giftmaster" alt="Run on Replit" />
+</a>
+
 
 ## Features
 

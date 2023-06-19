@@ -29,7 +29,7 @@ for (const file of commandFiles) {
 };
 
 // Client login
-client.login(process.env.token);
+client.login(process.env.TOKEN);
 
 client.once('ready', () => {
 	log.info(`I am logged in as ${client.user.tag} to Discord!`); // Say hello to console

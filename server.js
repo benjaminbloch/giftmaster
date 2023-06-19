@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(
   session({
-    secret: config.secretKey,
+    secret: process.env.SecretKey,
     resave: false,
     saveUninitialized: true,
   })
@@ -159,7 +159,7 @@ app.post('/login', (req, res) => {
   const password = req.body.password;
 
   // Check if the username and password are correct
-  if (username === config.username && password === config.password) {
+  if (username === process.env.username && password === process.env.password) {
     // Set the user session or token
     req.session.user = username; // Store the username in the session
     // Alternatively, you can use a token

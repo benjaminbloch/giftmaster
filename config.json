@@ -8,9 +8,6 @@
     "pgenrole": "role_id",
     "freegenrole": "role_id",
     "stocker": "role_id",
-    "secretKey":"your_secret_key",
-    "username":"your_username",
-    "password":"your_password",
     "gifurl": "https://cdn.discordapp.com/attachments/1112975745212489808/1116032447197491361/standard.gif",
     "color": {
         "green": "0x57F287",

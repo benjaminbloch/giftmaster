@@ -6,7 +6,7 @@ Welcome to GiftMaster, the ultimate giveaway bot for Discord! This bot is design
 
 ## Create
 
-<a href="https://replit.com/github/import/https://github.com/ScienceGear/giftmaster">
+<a href="https://replit.com/github/https://github.com/ScienceGear/giftmaster">
   <img src="https://replit.com/badge/github/ScienceGear/giftmaster" alt="Run on Replit" />
 </a>
 

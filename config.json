@@ -6,8 +6,8 @@
     "genCooldown": "120000",
     "genCooldownsec": "600",
     "pgenrole": "role_id",
-    "freegenrole": "role_id",
-    "stocker": "role_id",
+    "freegenrole": "1233697776127184967",
+    "stocker": "1241520411007516682",
     "gifurl": "https://cdn.discordapp.com/attachments/1112975745212489808/1116032447197491361/standard.gif",
     "color": {
         "green": "0x57F287",
